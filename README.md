@@ -1,0 +1,2 @@
+Odin Recipes
+This is about creating a website page on recipes to showcase my html skills. This project will be styled with CSS later on. This is based on the Odin Project. A shoutout to Odin Project for being guide in my web development journey!
